@@ -1,0 +1,28 @@
+{
+  "name": "express-validatorjs",
+  "version": "0.0.1",
+  "description": "expressjs request helper validatorjs method",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nmrmsys/express-validatorjs.git"
+  },
+  "keywords": [
+    "express",
+    "validatorjs"
+  ],
+  "author": "Masayoshi Nomura <nmrmsys@gmail.com> (http://github.com/nmrmsys)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nmrmsys/express-validatorjs/issues"
+  },
+  "homepage": "https://github.com/nmrmsys/express-validatorjs#readme",
+  "dependencies": {
+    "express-input": "^0.0.2",
+    "validatorjs": "^3.18.1"
+  },
+  "devDependencies": {}
+}
